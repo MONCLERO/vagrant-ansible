@@ -1,4 +1,5 @@
-group_vars/
+group_vars/*
+!group_vars/webserver.yml.example
 *.pem
 *.retry
 .vault_pass
